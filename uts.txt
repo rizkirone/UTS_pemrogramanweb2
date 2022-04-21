@@ -1,1 +1,0 @@
-Data Pemantaun Covid19 Wilayah jakarta Per 21-04-2022  05:12:17 pm Rizki Setiawan / 191011401194 Positif   : 1.245.653 <br>Dirawat   : 411 <br>Sembuh    :1.227.793<br>Meninggal : 15.244 <br>
