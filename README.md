@@ -1,6 +1,7 @@
-# UTS_pemrogramanweb2
-screen shoot
-![1](https://user-images.githubusercontent.com/102182778/164492254-62aea24f-e433-48de-b25c-d27715de9d44.PNG)
+input
+![4](https://user-images.githubusercontent.com/102182778/164499876-ebe7d0a9-5224-4f97-a4ba-7e0ec679afe7.PNG)
 
-outputnya belum sesuai
-![2](https://user-images.githubusercontent.com/102182778/164492199-08a222d4-fe88-422a-a05c-2bb1d5543ad3.PNG)
+
+
+maaf tampilannya belum sesuai
+![5](https://user-images.githubusercontent.com/102182778/164499856-7c112f2b-1df8-476d-8585-c0c49e39da08.PNG)
