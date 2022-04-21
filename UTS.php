@@ -11,8 +11,12 @@
         <table>
             <tr>
                 <td>Wilayah : </td>
-                <td><input type="text" name="wilayah"></td>
-                        
+		<td><select name="wilayah" id="">
+                        <option value="Jakarta">DKI Jakarta</option>
+                        <option value="Jawa Barat">Jawa Barat</option>
+                        <option value="Banten">Banten</option>
+                        <option value="Jawa Tengah">Jawa Tengah</option>
+                    </select></td>      
             </tr>
             <tr>
                 <td>Jumlah Positif : </td>
@@ -68,10 +72,10 @@
             fwrite($buka, "Data Pemantaun Covid19 Wilayah ${wil} ");
             fwrite($buka, "Per ${tanggal} ");
             fwrite($buka, "${op} / ${nim} ");
-            fwrite($buka, "Positif   : ${pos} ");
-        fwrite($buka, "Dirawat   : ${rawat} ");
-        fwrite($buka, "Sembuh    :${sembuh}");
-        fwrite($buka, "Meninggal : ${die} ");
+            fwrite($buka, "| Positif   : ${pos}| ");
+        fwrite($buka, " | Dirawat   : ${rawat} |");
+        fwrite($buka, " | Sembuh    :${sembuh} |");
+        fwrite($buka, " | Meninggal : ${die} |");
         fwrite($buka, "");
 	
 
