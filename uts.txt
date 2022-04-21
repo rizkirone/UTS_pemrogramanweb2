@@ -1,0 +1,3 @@
+Data Pemantaun Covid19 Wilayah Jakarta 
+Per 21-04-2022  05:41:46 operator Rizki Setiawan / 191011401194 
+|Positif   : 1.245.653 ||Dirawat   : 411 ||Sembuh    :1.227.793||Meninggal : 15.244| 
